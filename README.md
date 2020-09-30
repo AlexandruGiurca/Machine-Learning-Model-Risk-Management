@@ -1,5 +1,7 @@
 # Model Risk Management Framework for Machine Learning Models (Trustworthy AI)
 
+**WORK IN PROGRESS**
+
 This repository presents a quantitative approach to create a holistic validation framework for Artificial Intelligence systems. It reflects the nascent AI regulatory landscape and its expected near term development. The **Ethics Guidelines for Trustworthy Artificial Intelligence** presented by the High-Level Expert Group on AI put forward a set of 7 key requirements that AI systems should meet in order to be deemed trustworthy: 
  - Human agency and oversight, 
  - **Technical Robustness and safety**,
